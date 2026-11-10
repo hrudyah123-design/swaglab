@@ -1,0 +1,13 @@
+<suite name="SauceDemo Automation Suite">
+
+    <test name="SauceDemo Test">
+
+        <classes>
+            <class name="testpkg.logintest"/>
+            <class name="testpkg.producttest"/>
+            <class name="testpkg.checkouttest"/>
+        </classes>
+
+    </test>
+
+</suite>
